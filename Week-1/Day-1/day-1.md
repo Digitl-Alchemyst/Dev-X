@@ -17,7 +17,6 @@
 - Daily To-Do Report: 1 Done (All)
 
 ### 3. 📚 Learning
-
 - 🔗 [My honest thoughts on using AI to code](https://www.youtube.com/watch?v=yCUru4vcGdY&t=114s)
 - 🔗 [AI Raspberry Pi Robo Sapien - The PySapien](https://www.youtube.com/watch?v=FOl8-dDiKfg&t=23s)
 - 🔗 [My failed Product Hunt launch](https://www.youtube.com/watch?v=JPvHrWkyMug)
