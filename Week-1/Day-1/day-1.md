@@ -70,7 +70,7 @@ static async decrypt(
 
 ### 8. 📊 Progress Tracking
 
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/Dev-X/)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/Dev-X/tree/main/Week-1/Day-1)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev-X-Developer-Lifestyle-Challenge-1c0cf2b3a53980298450e1f07d6d9892?pvs=4)
 
 ## Reflections and Notes

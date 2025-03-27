@@ -57,7 +57,7 @@
 ### 8. 📊 Progress Tracking
 
 - 🏫 [Day-1](https://www.skool.com/universityofcode/dev-x-day-1)
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/Dev-X/Week-1/Day-1)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/Dev-X/tree/main/Week-1/Day-2)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev-X-Developer-Lifestyle-Challenge-1c0cf2b3a53980298450e1f07d6d9892?pvs=4)
 
 ## Reflections and Notes

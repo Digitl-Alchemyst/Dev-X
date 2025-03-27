@@ -5,12 +5,12 @@
 ### 1. 🌅 Morning Productivity
 
 🍳 Healthy Breakfast: [Meal description]
+
 - [x] Morning Routine: Clean Office, Rhythm Ready for School, Emails, Make Bed
 - [Activity 1]
 - [Activity 2]
 
 ### 2. ✅ To-Dos & Completed Tasks
-
 
 - [ ] [Update To-Dos]
 - [ ] [Clear Complete Task]
@@ -53,9 +53,9 @@
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Done/Week-[Week]/Day-[Number]/day[Number].md)
-- 📄 [Notion Page](https://www.notion.so/Dev100-Challenge-13ecf2b3a539805eb584e1febd599205)
+- 🏫 [Day-[day]](https://www.skool.com/universityofcode/dev-x-day-[day])
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/Dev-X/tree/main/Week-[week]/Day-[day])
+- 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev-X-Developer-Lifestyle-Challenge-1c0cf2b3a53980298450e1f07d6d9892?pvs=4)
 
 ## Reflections and Notes
 
