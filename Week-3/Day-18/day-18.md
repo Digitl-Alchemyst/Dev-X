@@ -4,9 +4,8 @@
 
 ### 1. 🌅 Morning Productivity
 
-🍳 Healthy Breakfast: [Meal description]
-
-- [x] Morning Routine: Clean Office, Rhythm Ready for School, Emails, Make Bed
+🍳 Healthy Breakfast: Sausage & taters
+- [x] Morning Routine: Clean Office, Rhythm Ready for School, Emails
 - [Activity 1]
 - [Activity 2]
 
@@ -18,15 +17,12 @@
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
+- 🔗 [https://www.youtube.com/watch?v=3bCJ7BieUss](We Made a Game. Someone Else Got Rich | Diapers, Please! - The Full Story of How Our Game Was Stolen)
 - 🔗 [Resource](URL)
 - 🔗 [Resource](URL)
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
-- 🏫 **Zero to Full Stack Hero Homework**:
 - 🦺 Project: [Project name and brief description]
 - 📝 Code Snippet:
 

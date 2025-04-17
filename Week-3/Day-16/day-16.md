@@ -4,59 +4,48 @@
 
 ### 1. 🌅 Morning Productivity
 
-🍳 Healthy Breakfast: [Meal description]
+🍳 Healthy Breakfast: Breakfast Bowl
 
 - [x] Morning Routine: Clean Office, Rhythm Ready for School, Emails, Make Bed
-- [Activity 1]
-- [Activity 2]
+- Standup for work
+
 
 ### 2. ✅ To-Dos & Completed Tasks
 
-- [ ] [Update To-Dos]
-- [ ] [Clear Complete Task]
-- Daily To-Do Report: # Done
+- [x] [Update To-Dos]
+- [x] [Clear Complete Task]
+- Daily To-Do Report: 1 Done
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+Work Focused Day used perplexity to aggregate info about supbase edge function, guess im learning deno now lol 
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
-- 🏫 **Zero to Full Stack Hero Homework**:
-- 🦺 Project: [Project name and brief description]
-- 📝 Code Snippet:
+- 🦺 Project: Bot Forge - debugging a few issues for mobile, update demo page, Access Vault - Isolated bug issue for stripe
 
-```javascript
-[Code snippet or summary]
-```
 
 ### 5. 🔄 Daily Reset
 
-- 🏋️‍♂️ [Physical Activity]
-- 🧘 [Relax and Reset Activity]
+- 🏋️‍♂️ Yoga with Wife
+- 🧘 Shower & Youtube
 
 ### 6. 🌤️ Afternoon Productivity
 
-- 🍱 Healthy Lunch: [Meal description]
-- [Activity 1]
-- [Activity 2]
+- 🍱 Healthy Lunch: Turkey Sandwich
+- 
+- 
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
+- 🔗 [Seeking Advice on Structuring and Improving My Mentorship Program](https://www.skool.com/universityofcode/seeking-advice-on-structuring-and-improving-my-mentorship-program)
+- 🔗 [Clerk sync Prisma](https://www.skool.com/universityofcode/clerk-sync-prisma)
+
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[day]](https://www.skool.com/universityofcode/dev-x-day-[day])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/Dev-X/tree/main/Week-[week]/Day-[day])
+- 🏫 [Day-15](https://www.skool.com/universityofcode/dev-x-day-15)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/Dev-X/tree/main/Week-3/Day-15)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev-X-Developer-Lifestyle-Challenge-1c0cf2b3a53980298450e1f07d6d9892?pvs=4)
 
-## Reflections and Notes
 
-[Add any additional thoughts, challenges, or achievements from the day]
